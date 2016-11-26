@@ -1,0 +1,26 @@
+Welcome!
+
+
+Every great project starts with a solid road map. This will be a living document and I will 
+be committing changes to it to reflect the project and the times. The project is released
+currently with the Ubuntu/Debian file system accounted for in the admitidly primative install
+script. This piece of software is released under the GNU GPL V.2 and by such is free software.
+In order to get around using proprietary software on your system one can used this portal to
+"use" the software, but still free themselves from the closed source software.
+
+Goal:
+
+Currently this program is written in Python, Python is a fine language, but it also uses
+firefox to just launch the programs. I want to add a few more features to the program to
+make it more flexable before exploring other platforms. I want to eventually have a browser
+like program that is capable of reading, parsing, and processing scripting languages which
+will load up a few windows at a time, but will look as if it were a standalone program and
+not a browser. Forking a light weight browser in order to provide functionality with a different
+end experience. Python may or may not be the end language used, but it is the current option.
+
+Planned features:
+
+Support to choose which trigger word(s) launch which websites.
+Support for exported files to be uploaded to a cloud service of the end users choice
+            ie: Google Drive, Drop Box, One Drive, A possible opensource solution from us
+Support for cross platforms(should be a given)
