@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/opt/WebToDesk/bin/powerpoint
+Icon=/opt/WebToDesk/assets/PowerPoint.png
+Type=Application
+Terminal=false
+Comment=MS Office Portal
+Name=Microsoft PowerPoint
+GenericName=MSPowerPoint
+StartupNotify=false
+Categories=Development;
