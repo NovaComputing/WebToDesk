@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Exec=/opt/WebToDesk/bin/powerpoint
+Exec=/usr/bin/WebToDeskPowerPoint
 Icon=/opt/WebToDesk/assets/PowerPoint.png
 Type=Application
 Terminal=false

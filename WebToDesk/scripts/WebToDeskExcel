@@ -1,0 +1,3 @@
+#!/bin/bash
+python /opt/WebToDesk/bin/WebToDesk.py -p Excel
+exit 0;

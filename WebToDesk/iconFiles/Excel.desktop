@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Exec=/opt/WebToDesk/bin/excel
+Exec=/usr/bin/WebToDeskExcel
 Icon=/opt/WebToDesk/assets/Excel.png
 Type=Application
 Terminal=false

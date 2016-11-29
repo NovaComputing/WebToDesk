@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Exec=/opt/WebToDesk/bin/word
+Exec=/usr/bin/WebToDeskWord
 Icon=/opt/WebToDesk/assets/Word.ico
 Type=Application
 Terminal=false
